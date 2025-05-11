@@ -10,7 +10,7 @@
 
 ## 🌐 Let's Connect
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ltnhan04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HenryNguyen1703&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <p>📫 You can always reach me at <strong>nguyenngochieu170302004@gmail.com</strong>.</p>
   <p>
     <a href="https://fb.com/luong.nhan.351104" target="_blank">
