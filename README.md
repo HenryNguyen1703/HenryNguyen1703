@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,java,maven,spring,mysql,linux,bash,postman,github,notion" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=idea,java,maven,spring,mysql,linux,bash,postman,github,apple,notion" alt="Skills" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryNguyen1703&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
